@@ -1,0 +1,1 @@
+import{t as e}from"./time-client.Cu2zdchR.js";e(),window.setInterval(e,3e4);
