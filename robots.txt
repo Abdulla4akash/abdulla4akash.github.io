@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abdulla4akash.github.io/sitemap-index.xml
+Sitemap: https://is4hc.org/sitemap-index.xml
